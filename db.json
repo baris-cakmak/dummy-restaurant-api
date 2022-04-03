@@ -4,9 +4,14 @@
     { "id": 2, "title": "40 Percent Discount on Vegan Food" , "imageUrl": "https://img.freepik.com/free-vector/bowl-with-fresh-healthy-vegetables_24877-61695.jpg?w=1380" },
     { "id": 3, "title": "Kebab Day! 20₺ Discount" , "imageUrl": "https://img.freepik.com/free-vector/kebab-neon-sign-with-fire-flames_1262-15608.jpg?t=st=1648992885~exp=1648993485~hmac=f44e0bf68fc4ef8c4146e9d1fb3bcf355afecd8110d7ea1636f65c9208f37d65&w=1380"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "newRestaurants": [
+    { "id": 1, "restaurantName": "NFT Restaurant", "category": "Vegan" , "restaurantPoint": "9.8", "status": "excellent", "restaurantImageUrl": "https://img.freepik.com/free-vector/fork-spoon-ingredients-chief-hat-neon-sign_1262-19535.jpg?w=1380&t=st=1648996914~exp=1648997514~hmac=821414a0a0318ccd43137a8caaab79d6521fdb3557b8f8bf2778ff87e97ed8c4"}, 
+    { "id": 2, "restaurantName": "Sivas Grill", "category": "Grill", "restaurantPoint": "8.2", "status": "good", "restaurantImageUrl": "https://img.freepik.com/free-vector/beef-steak-with-vegetables-dish-neon-sign_1262-19487.jpg?w=1380&t=st=1648996935~exp=1648997535~hmac=585416ba3c01f5db4fc557930ec08c6562e8f8df33f7b9c578d116ef689ef913"},
+    { "id": 3, "restaurantName": "Hatay Show", "category": "Kebap", "restaurantPoint": "7.2", "status": "good", "restaurantImageUrl": "https://img.freepik.com/free-vector/neon-pub-restaurant-sign-design_23-2149092246.jpg?w=1380&t=st=1648996891~exp=1648997491~hmac=9887497a4eed51446badc7f51f5c8323eef98b481c144a4fde7b5263e0e16b28"},
+    { "id": 4, "restaurantName": "MVVM is Hard", "category": "Kebap", "restaurantPoint": "5.9", "status": "bad", "restaurantImageUrl": "https://img.freepik.com/free-vector/beef-steak-grill-with-rosemary-pan-neon-sign_1262-19486.jpg?w=1380&t=st=1648996884~exp=1648997484~hmac=a2dbb47a51708a95e19aa2afdfbdb23daf62e7f59891c0f145a2910c912bab16"},
+    { "id": 5, "restaurantName": "VIPER is Overkill", "category": "Vegan", "restaurantPoint": "9.2", "status": "excellent", "restaurantImageUrl":"https://img.freepik.com/free-vector/neon-pub-restaurant-sign-design_23-2149092621.jpg?w=1380&t=st=1648996941~exp=1648997541~hmac=472e781e7bc52ab062d7a8826e503ded20d2dc70ab58ce2dd99abacaa0ac340a"},
+    { "id": 6, "restaurantName": "Massive VC", "category": "FastFood", "restaurantPoint": "2.5", "status": "bad", "restaurantImageUrl": "https://img.freepik.com/free-vector/neon-pub-restaurant-sign-design_23-2149093210.jpg?w=1380&t=st=1648996945~exp=1648997545~hmac=3e451743d3451fde796f55117a5e047e5bc2bf8996a40e4c51561142e96cf901"},
+    { "id": 7, "restaurantName": "OpenToCook", "category": "Grill", "restaurantPoint": "9.9", "status": "excellent", "restaurantImageUrl": "https://img.freepik.com/free-vector/frying-beef-steak-pan-neon-sign_1262-19540.jpg?w=1380&t=st=1648996960~exp=1648997560~hmac=5c71ded40495ebf31dbc68dc871040ad40115d812f4bec009d7d1adf72d0bfdb"}
   ],
   "profile": {
     "name": "baris-cakmak"
