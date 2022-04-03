@@ -1,7 +1,7 @@
 {
-  "offers": [
-    { "id": 1, "title": "First Order Free!!!" },
-    { "id": 2, "title": "50 Discount on Vegan Food" },
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
