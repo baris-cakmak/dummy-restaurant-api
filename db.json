@@ -1,8 +1,8 @@
 {
   "offers": [
-    { "id": 1, "title": "Your First Order Free!!" },
-    { "id": 2, "title": "40 Percent Discount on Vegan Food" },
-    { "id": 3, "title": "Kebab Day! 20₺ Discount" }
+    { "id": 1, "title": "Your First Order Free!!" , "imageUrl": "https://img.freepik.com/free-vector/buy-one-get-one-free-sale-banner_1017-28231.jpg?w=1380&t=st=1648992474~exp=1648993074~hmac=7eb41741ccb4628bb9e6dceb881fd1150d9437229485850376363f2d29c647e8" },
+    { "id": 2, "title": "40 Percent Discount on Vegan Food" , "imageUrl": "https://img.freepik.com/free-vector/bowl-with-fresh-healthy-vegetables_24877-61695.jpg?w=1380" },
+    { "id": 3, "title": "Kebab Day! 20₺ Discount" , "imageUrl": "https://img.freepik.com/free-vector/kebab-neon-sign-with-fire-flames_1262-15608.jpg?t=st=1648992885~exp=1648993485~hmac=f44e0bf68fc4ef8c4146e9d1fb3bcf355afecd8110d7ea1636f65c9208f37d65&w=1380"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
